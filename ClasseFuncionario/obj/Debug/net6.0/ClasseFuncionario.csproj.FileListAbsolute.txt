@@ -1,0 +1,15 @@
+J:\POO noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.exe
+J:\POO noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.deps.json
+J:\POO noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.runtimeconfig.json
+J:\POO noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.dll
+J:\POO noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.pdb
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.AssemblyReference.cache
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfoInputs.cache
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfo.cs
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.dll
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\refint\ClasseFuncionario.dll
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.pdb
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.genruntimeconfig.cache
+J:\POO noite\ClasseFuncionario\obj\Debug\net6.0\ref\ClasseFuncionario.dll

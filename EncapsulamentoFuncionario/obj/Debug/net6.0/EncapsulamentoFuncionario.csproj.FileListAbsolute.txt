@@ -1,0 +1,15 @@
+J:\POO noite\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.exe
+J:\POO noite\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.deps.json
+J:\POO noite\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.runtimeconfig.json
+J:\POO noite\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.dll
+J:\POO noite\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.pdb
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.csproj.AssemblyReference.cache
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.dll
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\refint\EncapsulamentoFuncionario.dll
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.pdb
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+J:\POO noite\EncapsulamentoFuncionario\obj\Debug\net6.0\ref\EncapsulamentoFuncionario.dll

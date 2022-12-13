@@ -1,0 +1,15 @@
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.csproj.AssemblyReference.cache
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.GeneratedMSBuildEditorConfig.editorconfig
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.AssemblyInfoInputs.cache
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.AssemblyInfo.cs
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.csproj.CoreCompileInputs.cache
+J:\POO noite\ClasseConta\bin\Debug\net6.0\ClasseConta.exe
+J:\POO noite\ClasseConta\bin\Debug\net6.0\ClasseConta.deps.json
+J:\POO noite\ClasseConta\bin\Debug\net6.0\ClasseConta.runtimeconfig.json
+J:\POO noite\ClasseConta\bin\Debug\net6.0\ClasseConta.dll
+J:\POO noite\ClasseConta\bin\Debug\net6.0\ClasseConta.pdb
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.dll
+J:\POO noite\ClasseConta\obj\Debug\net6.0\refint\ClasseConta.dll
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.pdb
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ClasseConta.genruntimeconfig.cache
+J:\POO noite\ClasseConta\obj\Debug\net6.0\ref\ClasseConta.dll

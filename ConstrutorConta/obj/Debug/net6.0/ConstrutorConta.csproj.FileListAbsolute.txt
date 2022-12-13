@@ -1,0 +1,15 @@
+J:\POO noite\ConstrutorConta\bin\Debug\net6.0\ConstrutorConta.exe
+J:\POO noite\ConstrutorConta\bin\Debug\net6.0\ConstrutorConta.deps.json
+J:\POO noite\ConstrutorConta\bin\Debug\net6.0\ConstrutorConta.runtimeconfig.json
+J:\POO noite\ConstrutorConta\bin\Debug\net6.0\ConstrutorConta.dll
+J:\POO noite\ConstrutorConta\bin\Debug\net6.0\ConstrutorConta.pdb
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.csproj.AssemblyReference.cache
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.AssemblyInfoInputs.cache
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.AssemblyInfo.cs
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.csproj.CoreCompileInputs.cache
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.dll
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\refint\ConstrutorConta.dll
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.pdb
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ConstrutorConta.genruntimeconfig.cache
+J:\POO noite\ConstrutorConta\obj\Debug\net6.0\ref\ConstrutorConta.dll
